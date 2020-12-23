@@ -6,7 +6,7 @@ char converte_data(char data[11]);
 
 int main (){
     char data [11];
-    char converte_data(char data[11]);
+    //char converte_data(char data[11]);
 
     printf("Digite a data(DD/MM/AAAA): ");
     scanf("%s", &data);
@@ -89,7 +89,6 @@ char converte_data(char data[11]){
         case 12:
         strcpy(mes_por_extenso,"dezembro");
         break;
-
-        printf("%i de %s de %i",dia_final,mes_por_extenso,ano_final);
     }
+    printf("%i de %s de %i\n",dia_final,mes_por_extenso,ano_final);
 }
