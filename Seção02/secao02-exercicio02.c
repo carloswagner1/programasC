@@ -18,6 +18,6 @@ int main(){
 	multiplicacao = soma * num1;
 
 	//Saída
-	printf("O resultado da multiplicação é %d" , multiplicacao);
+	printf("O resultado da multiplicação é %d\n" , multiplicacao);
 
 }
