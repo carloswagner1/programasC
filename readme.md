@@ -1,5 +1,5 @@
 # Github
 
 Repositórios de exercícios de Linguagem C
-Update 18/01/2021
 
+Curso realizado na Geek University
